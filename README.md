@@ -6,7 +6,7 @@ It includes authentication with **Clerk**, smooth routing using **React Router**
 ---
 
 ## 🚀 Live Demo  
-▶️ **Live Link:** _add your deployed URL here_
+▶️ **Live Link:** https://jobify-ewlk9hafe-shines-projects-ad859a5e.vercel.app/
 
 ---
 
