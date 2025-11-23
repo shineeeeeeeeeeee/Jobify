@@ -1,16 +1,16 @@
-# 🧑‍💼 Jobify — Modern Job Application Tracking App
+# Jobify — Modern Job Application Tracking App
 
 Jobify is a modern, responsive job application tracking platform built with **React + Vite**, styled beautifully with **Tailwind CSS** and **shadcn/ui** components.  
 It includes authentication with **Clerk**, smooth routing using **React Router**, and a modular layout system optimized for scalability.
 
 ---
 
-## 🚀 Live Demo  
-▶️ **Live Link:** https://jobify-ewlk9hafe-shines-projects-ad859a5e.vercel.app/
+## Live Demo  
+**Live Link:** https://jobify-ewlk9hafe-shines-projects-ad859a5e.vercel.app/
 
 ---
 
-## 📸 Screenshots  
+## Screenshot
 (Add your screenshots here)
 
 # React + Vite
