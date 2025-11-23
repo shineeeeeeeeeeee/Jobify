@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+@layer utilities {
+  .gradient-title {
+    @apply text-transparent bg-clip-text;
+    background-image: linear-gradient(to bottom right, #dfe9ff, #e5e7eb, #ffffff);
+  }
+}
+
+/* Make markdown fully transparent */
+.wmde-markdown,
+.wmde-markdown * {
+  background-color: transparent !important;
+}
+
+/* Optional: give UL a styled transparent glassy look */
+.wmde-markdown ul {
+  background-color: rgba(255, 255, 255, 0.06) !important;
+  border-radius: 12px;
+  padding: 15px 25px;
+  color: white;
+}
+
+
+
