@@ -11,7 +11,7 @@ It includes authentication with **Clerk**, smooth routing using **React Router**
 ---
 
 ## Screenshot
-(Add your screenshots here)
+<img width="1669" height="848" alt="Image" src="https://github.com/user-attachments/assets/6f525430-2031-4394-afa5-b8f945ee8254" />
 
 # React + Vite
 
