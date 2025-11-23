@@ -1,3 +1,18 @@
+# 🧑‍💼 Jobify — Modern Job Application Tracking App
+
+Jobify is a modern, responsive job application tracking platform built with **React + Vite**, styled beautifully with **Tailwind CSS** and **shadcn/ui** components.  
+It includes authentication with **Clerk**, smooth routing using **React Router**, and a modular layout system optimized for scalability.
+
+---
+
+## 🚀 Live Demo  
+▶️ **Live Link:** _add your deployed URL here_
+
+---
+
+## 📸 Screenshots  
+(Add your screenshots here)
+
 # React + Vite
 
 npm create vite@latest
@@ -28,13 +43,8 @@ styling app layout
     </ThemeProvider>
 
 dark theme applied using this, again from shadcn
-
-going to clerk now, for user auth
-
+clerk, for user auth
 npm install @clerk/clerk-react
-
-
-
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
