@@ -12,7 +12,7 @@ const AppLayout = () => {
           <Outlet />
         </main>
 
-        <div className='p-10 text-center bg-gray-800 mt-10'>Made by Shine</div>
+        <div className='p-10 text-center bg-gray-800 mt-10'>© 2025 Jobify | Designed & Developed by Shine</div>
 
     </div>
   )
